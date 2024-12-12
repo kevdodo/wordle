@@ -1,0 +1,101 @@
+fact_id|fact
+1|Bumblebees were nicknamed foggy-toddlers in 18th century England.
+2|Pupaphobia is the fear of dolls and puppets.
+3|Cowards have been called chickens since the 14th century.
+4|A monepic sentence is one that contains a single word.
+5|The distance between your thumb and the opposite side of your hand when it's extended is called the shaftment.
+6|In 16th century English, twirk (spelled with an E, not an I) meant "to twist the hairs of a moustache."
+7|The word creosote literally means "flesh-preserver."
+8|The feeling of calmness or contentedness that follows a pleasant dream is called euneirophrenia.
+9|The word comet comes from a Greek word meaning "long-haired star."
+10|To dismantle originally meant "to remove a cloak."
+11|In its earliest known written record, the English alphabet had 29 letters.
+12|Cluck-and-grunt was 1930s slang for ham and eggs.
+13|An anepronym is a trade name that has come to be used generally in the language, like Kleenex, Jacuzzi or hoover.
+14|In Elizabethan English, a clap of thunder was nicknamed a rounce-robble-hobble.
+15|The word trampoline derives from an Italian word for a pair of stilts.
+16|If you wrote out every number in the standard English counting system (one, two, three, four) in alphabetical order, no matter how high you counted the first number would always be eight.
+17|The second would always be eight billion.
+18|The "wherefore" of Shakespeare's "wherefore are thou, Romeo?" means "why" not "where."
+19|In 18th century slang, "to play booty" meant "to play a game with the intention of losing."
+20|Bystanders were originally called stander-bys.
+21|The opposite of serendipity is zemblanity.
+22|You can use the girl's name Rebecca as a verb meaning "to destroy a gate."
+23|If something is xyresic then it's razor sharp.
+24|On average, for every letter Q used in written English there will be 56 E's.
+25|The old Irish-English expression "to speak drugget" meant "to speak well, but occasionally slip back into your local accent."
+26|A belter-werrits is a teasing or annoying child.
+27|Dogfish are so-called because they were once thought to hunt in packs.
+28|Mediocre literally means "halfway up a mountain."
+29|To unhappen something means to make it look like it never took place.
+30|A compulsive desire to look at something that horrifies you -- like a horror film or an injury -- is called cacospectomania.
+31|The paddy-whack mentioned in the nursery rhyme "This Old Man" is a Victorian word for a severe beating.
+32|To jakes is to walk mud into a house.
+33|Counting on your fingers is properly called dactylonymy.
+34|Monkey-poop is an old naval slang word for a smaller-than-normal poop deck.
+35|The "pep" of pep talk is an abbreviation of "pepper."
+36|An autohagiography is an autobiography that makes the subject appear better than they actually are.
+37|Pentagons were once called quinquangles.
+38|Hexagons were once called sexangles.
+39|The earliest written record of a rollercoaster in English comes from an 1883 article in The Chicago Tribune. It was described as "a curious structure."
+40|In 18th century English, a wobble-shop was a place where beer was sold without a license.
+41|A person's headmark comprises all of the facial features and characteristics that make them recognisable as themselves.
+42|To rammack something is to turn it upside down while searching for something else.
+43|Toucans used to be called egg-suckers.
+44|Use of the word selfie increased by 17000% between 2012-13.
+45|A group of dragonflies is called a dazzle.
+46|The "skate" of cheapskate is an old American dialect word for a worn-out horse.
+47|Velociraptor literally means "swift thief."
+48|To metagrobolize someone is to utterly confuse them.
+49|The words a, and, be, have, he, I, in, of, that, the and to make up 25% of all written English.
+50|The proper name for taking your shoes off is discalceation.
+51|The name rum is a shortened form of rumbullion.
+52|Turning down or pretending not to be interested in something that you really want is called accismus.
+53|In 18th century slang, a heathen philosopher was someone whose underwear could be seen through his trouser pockets.
+54|An aquabib is someone who chooses to drink water rather than alcohol.
+55|The creases in the skin on the inside of your wrists are called the rasceta.
+56|The word sheepish is a palindrome in Morse Code.
+57|As a verb, tiger means "to paint something in stripes of contrasting colors."
+58|The opposite of "postpone" is prepone, meaning "to bring something forward in time."
+59|In Tudor English, ducks were nicknamed arsefeet because their legs are so far back on their bodies.
+60|Since 2001, English has been the official language of all international air travel, regardless of the nationality of the pilots.
+61|To honeyfuggle someone is to trick or deceive them.
+62|A callomaniac is someone who thinks they're more beautiful than they actually are.
+63|An adoxography is a fine work of writing on a pointless or trivial subject.
+64|Samuel Johnson left the letter X out of his dictionary, claiming that X "begins no word in the English language."
+65|A crockan is a piece of food that has shrivelled up and burned in cooking.
+66|The plant nasturtium took its name from a Latin word meaning "twisted nose."
+67|Champagne literally means "open country."
+68|In Victorian slang, a flapdoodler was an annoyingly boastful or self-righteous person.
+69|Nucleus derives from the Latin word for the kernel of a nut.
+70|Conversation is an anagram of "voices rant on."
+71|The proper name for speaking through clenched teeth is dentiloquy.
+72|Saturday wit was Tudor slang for dirty jokes.
+73|Because of the pattern of holes they make in the ground, gophers take their name from an old French word for honeycomb.
+74|A toot-moot is a conversation carried out entirely in whispers.
+75|In 18th century slang, a waffle-frolic was a sumptuous meal or feast.
+76|The sentence "this sentence contains thirty-six letters" contains 36 letters.
+77|Dutch pink is a shade of yellow.
+78|In 1930s slang, artillery was any food that caused gas.
+79|The "wuther" of Wuthering Heights is an old English dialect word for a sudden and strong gust of wind.
+80|If something is obliviable then it's able to be forgotten.
+81|The old Scots word growk means "the determined look a child gives to something she or he really wants."
+82|In Old English, bad weather was called unweather.
+83|A slawterpooch is a lazy or ungainly person.
+84|Hypengophobia is the hatred of having responsibilities.
+85|Chameleon literally means "dwarf lion."
+86|In Victorian slang, a polly-in-the-cottage was a man who enjoyed doing housework.
+87|The head of an asparagus is called the squib.
+88|To frowst is to keep yourself warm in cold weather.
+89|Anything described as hippocrepiform is shaped like a horseshoe.
+90|Shakespeare invented the word lackluster.
+91|A myriad is literally 10,000 of something.
+92|In 1920s slang, a wagger-pagger-bagger was a wastepaper basket.
+93|In Old English, arselings meant "heading in a backward direction."
+94|Using too many words to explain an otherwise straightforward point is called macrology.
+95|A wonder-horn is a collection of amazing things.
+96|A doryphore is a pestering person who draws attention to other people's errors.
+97|GIF stands for "graphics interchange format." According to its inventor, it should be pronounced "jiff" not "giff."
+98|To snirtle is to try to suppress a laugh.
+99|In Elizabethan slang, tailors were nicknamed snip-snappers.
+100|A lampus is an awkward and clumsy fall, part way through which you try to grab onto something to try and stop from falling.

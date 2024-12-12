@@ -1,0 +1,14 @@
+partial participation, New playes may now have any games played or items
+
+player info -> games_played & player_items 
+
+shop -> player_items
+
+guesses -> games_played
+Each guess refers to one games played 
+
+
+-- Each game must have at least 1 guess, 1 player  (total participation)
+games_played -> player_info, guesses table, word_id (guesses table)  Relational attribute timestamp()
+
+fun_facts -> shop
